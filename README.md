@@ -4,16 +4,15 @@ Sampling assignment
 ### Sampling Definition
 Sampling of a dataset is the process of selecting a subset of data from a larger dataset for the purpose of analysis or modeling. In other words, it involves taking a representative portion of the data that can be used to draw conclusions about the larger dataset.
 
-There are several types of sampling methods, including:
+
 
 ### Formula Used :
-###  z = 1.96 # 95% confidence
+###  z = 1.96   95% confidence
 ###  e = 0.05
 ### p = 0.05    # 5% frauds
+### n = (z^2 * p * (1-p) )/(e^2)
 
-### n = (z**2 * p * (1-p) )//(e**2)
-
-
+There are several types of sampling methods, including:
 
 ###  Random Sampling:
 This involves selecting a random subset of the data without any bias.
@@ -31,7 +30,12 @@ The choice of sampling method depends on the research question, the available da
 
 ### Analysis :
 The dataset used is highly imbalanced. The number 0's were 763 and number of 1's were 9. As we can see sampling is needed as trainig the model on the current Dataset will only give 0 for all input .
-So we have used Oversampling for the same .
+So we have used Databalancing:
+### 1. SMOTE 
+### 2. Randomoversampling
+### 3. TomekLinks
+### 4. RandomUndersampling
+### 5. NearMiss
 
 Sampling used are as follow:
 
