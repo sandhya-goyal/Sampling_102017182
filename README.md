@@ -1,5 +1,6 @@
-# SAMPLING-102017182  By:
-Sampling assignment 
+# SAMPLING By Sandhya Goyal 102017182:
+
+#Sampling assignment 
 
 ### Sampling Definition
 Sampling of a dataset is the process of selecting a subset of data from a larger dataset for the purpose of analysis or modeling. In other words, it involves taking a representative portion of the data that can be used to draw conclusions about the larger dataset.
