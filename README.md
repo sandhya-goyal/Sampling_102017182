@@ -39,22 +39,22 @@ So we have used Databalancing:
 
 # Sampling used are as follow:
 
-### 1. Simple / Random Sampling (RS)
-### 2. Proportional Stratified Sampling (PSS)
-### 3. Disproportional Stratified Sampling (DSS)
-### 4. Cluster Sampling (CS)
-### 5. Systematic Sampling (SS)
+#### 1. Simple / Random Sampling (RS)
+#### 2. Proportional Stratified Sampling (PSS)
+#### 3. Disproportional Stratified Sampling (DSS)
+#### 4. Cluster Sampling (CS)
+#### 5. Systematic Sampling (SS)
 
 
-Model used are:
+# Model used are:
 
-### 1. Support Vector Machine (SVM)
-### 2. Decision Tree Classifier (DT)
-### 3. K-Nearest Neighbours (KNN)
-### 4. Naive Bayes (NB)
-### 5. Random Forest (RF)
+#### 1. Support Vector Machine (SVM)
+#### 2. Decision Tree Classifier (DT)
+#### 3. K-Nearest Neighbours (KNN)
+#### 4. Naive Bayes (NB)
+#### 5. Random Forest (RF)
 
-### Model Evaluation:
+## Model Evaluation:
 
 ### The accuracy of these models are as follow :
 |      |   RS    |     SS     |   CS     |     PSS    |     DSS    |
