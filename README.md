@@ -6,13 +6,17 @@ Sampling of a dataset is the process of selecting a subset of data from a larger
 
 There are several types of sampling methods, including:
 
-1. Random Sampling: This involves selecting a random subset of the data without any bias.
+###  Random Sampling:
+This involves selecting a random subset of the data without any bias.
 
-2. Stratified Sampling: This involves dividing the dataset into strata (groups) based on some characteristic, and then randomly selecting a sample from each stratum.
+###  Stratified Sampling: 
+This involves dividing the dataset into strata (groups) based on some characteristic, and then randomly selecting a sample from each stratum.
 
-3. Cluster Sampling: This involves dividing the dataset into clusters (groups) based on some characteristic, and then randomly selecting a sample of clusters to analyze.
+### Cluster Sampling:
+This involves dividing the dataset into clusters (groups) based on some characteristic, and then randomly selecting a sample of clusters to analyze.
 
-4. Systematic Sampling: This involves selecting every nth item in a dataset, where n is a predetermined interval.
+###  Systematic Sampling:
+This involves selecting every nth item in a dataset, where n is a predetermined interval.
 
 The choice of sampling method depends on the research question, the available data, and the analysis techniques being used. Sampling can help to reduce the time and resources required for data analysis while still providing accurate and reliable results.
 
@@ -22,19 +26,19 @@ So we have used Oversampling for the same .
 
 Sampling used are as follow:
 
-1. Simple / Random Sampling (RS)
-2. Proportional Stratified Sampling (PSS)
-3. Disproportional Stratified Sampling (DSS)
-4. Cluster Sampling (CS)
-5. Systematic Sampling (SS)
+### 1. Simple / Random Sampling (RS)
+### 2. Proportional Stratified Sampling (PSS)
+### 3. Disproportional Stratified Sampling (DSS)
+### 4. Cluster Sampling (CS)
+### 5. Systematic Sampling (SS)
 
 Model used are:
 
-1. Support Vector Machine (SVM)
-2. Decision Tree Classifier (DT)
-3. K-Nearest Neighbours (KNN)
-4. Naive Bayes (NB)
-5. Random Forest (RF)
+### 1. Support Vector Machine (SVM)
+### 2. Decision Tree Classifier (DT)
+### 3. K-Nearest Neighbours (KNN)
+### 4. Naive Bayes (NB)
+### 5. Random Forest (RF)
 
 ### Model Evaluation:
 
