@@ -1,6 +1,6 @@
 # SAMPLING By Sandhya Goyal 102017182:
 
-#Sampling assignment 
+# Sampling assignment 
 
 ### Sampling Definition
 Sampling of a dataset is the process of selecting a subset of data from a larger dataset for the purpose of analysis or modeling. In other words, it involves taking a representative portion of the data that can be used to draw conclusions about the larger dataset.
@@ -58,6 +58,7 @@ So we have used Databalancing:
 ## Model Evaluation:
 
 ### The accuracy of these models are as follow :
+
 |      |   RS    |     SS     |   CS     |     PSS    |     DSS    |
 |------|-------: |------------|--------- |------------|----------- |
 | SVM  |  0.8888 |    0.9000  |  0.9000  |    0.9301  |    0.9301  |
