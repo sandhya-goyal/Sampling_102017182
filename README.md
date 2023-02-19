@@ -1,4 +1,4 @@
-# SAMPLING-  By:
+# SAMPLING-102017182  By:
 Sampling assignment 
 
 ### Sampling Definition
@@ -31,11 +31,11 @@ The choice of sampling method depends on the research question, the available da
 ### Analysis :
 The dataset used is highly imbalanced. The number 0's were 763 and number of 1's were 9. As we can see sampling is needed as trainig the model on the current Dataset will only give 0 for all input .
 So we have used Databalancing:
-### 1. SMOTE 
-### 2. Randomoversampling
-### 3. TomekLinks
-### 4. RandomUndersampling
-### 5. NearMiss
+## 1. SMOTE 
+## 2. Randomoversampling
+## 3. TomekLinks
+## 4. RandomUndersampling
+## 5. NearMiss
 
 Sampling used are as follow:
 
