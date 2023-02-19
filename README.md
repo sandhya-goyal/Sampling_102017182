@@ -6,24 +6,24 @@ Sampling of a dataset is the process of selecting a subset of data from a larger
 
 
 
-### Formula Used :
-###  z = 1.96   95% confidence
-###  e = 0.05
-### p = 0.05    # 5% frauds
-### n = (z^2 * p * (1-p) )/(e^2)
+## Formula Used :
+####  z = 1.96   95% confidence
+####  e = 0.05
+#### p = 0.05    # 5% frauds
+#### n = (z^2 * p * (1-p) )/(e^2)
 
 There are several types of sampling methods, including:
 
-###  Random Sampling:
+##  Random Sampling:
 This involves selecting a random subset of the data without any bias.
 
-###  Stratified Sampling: 
+##  Stratified Sampling: 
 This involves dividing the dataset into strata (groups) based on some characteristic, and then randomly selecting a sample from each stratum.
 
-### Cluster Sampling:
+## Cluster Sampling:
 This involves dividing the dataset into clusters (groups) based on some characteristic, and then randomly selecting a sample of clusters to analyze.
 
-###  Systematic Sampling:
+##  Systematic Sampling:
 This involves selecting every nth item in a dataset, where n is a predetermined interval.
 
 The choice of sampling method depends on the research question, the available data, and the analysis techniques being used. Sampling can help to reduce the time and resources required for data analysis while still providing accurate and reliable results.
@@ -37,7 +37,7 @@ So we have used Databalancing:
 #### 4. RandomUndersampling
 #### 5. NearMiss
 
-Sampling used are as follow:
+# Sampling used are as follow:
 
 ### 1. Simple / Random Sampling (RS)
 ### 2. Proportional Stratified Sampling (PSS)
