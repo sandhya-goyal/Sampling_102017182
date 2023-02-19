@@ -6,6 +6,15 @@ Sampling of a dataset is the process of selecting a subset of data from a larger
 
 There are several types of sampling methods, including:
 
+### Formula Used :
+###  z = 1.96 # 95% confidence
+###  e = 0.05
+### p = 0.05    # 5% frauds
+
+### n = (z**2 * p * (1-p) )//(e**2)
+
+
+
 ###  Random Sampling:
 This involves selecting a random subset of the data without any bias.
 
@@ -32,6 +41,7 @@ Sampling used are as follow:
 ### 4. Cluster Sampling (CS)
 ### 5. Systematic Sampling (SS)
 
+
 Model used are:
 
 ### 1. Support Vector Machine (SVM)
@@ -42,7 +52,7 @@ Model used are:
 
 ### Model Evaluation:
 
-The accuracy of these models are as follow :
+### The accuracy of these models are as follow :
 |      |   RS    |     SS     |   CS     |     PSS    |     DSS    |
 |------|-------: |------------|--------- |------------|----------- |
 | SVM  |  0.8888 |    0.9000  |  0.9000  |    0.9301  |    0.9301  |
